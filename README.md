@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @amarildo86 (Amarildo Queiroz).
+   - Actually, i'm workink on Banco Original Credit Data Science team.
 
 - 👀 I’m interested in Machine Learning and Business Analytics.
 - 🌱 I’m currently learning SAS, Python and Machine Learning Algorithms.
